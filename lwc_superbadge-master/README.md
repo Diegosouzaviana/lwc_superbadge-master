@@ -11,6 +11,7 @@ Para criar um novo Trailhead Playground agora, clique em Lançar. Para criar uma
 Curious Badger Playground
 Última utilização em 17/06/2022
 Complete each challenge to earn your superbadge
+
 1 Quiz: Credential Security
 Answer questions about superbadge credentials and the Trailhead Credential and Certification Program. Please review the Superbadge Challenge Help article for information about the Salesforce Certification Program information and Superbadge Code of Conduct.
 
